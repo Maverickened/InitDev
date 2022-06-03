@@ -9,7 +9,7 @@ oauth2 = "*"
 pyyaml = "*"
 requests = "*"
 rx = "*"
-
+git 
 [dev-packages]
 
 [requires]
